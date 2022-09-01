@@ -1,0 +1,11 @@
+print("charles is a boy" '\n'
+ "jenny is a girl" '\n'
+ "owumi has brown hair" '\n'
+ "patience is always shaking her head" '\n'
+ "i despreatly need a new system" '\n'
+ "dogs are the best pets u can ever have" '\n'
+ "i woke up this morning with da investor vibes" '\n'
+ "sapa sapa no fit catch me" '\n'
+ "i know, i know the God am serving" '\n'
+ "will open the windows of heaven for me" '\n'
+ "money go dey on ground")
